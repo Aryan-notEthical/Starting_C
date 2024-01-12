@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//very use less program!!
 int main(){
     int a;
     printf("Enter the age:\n");
