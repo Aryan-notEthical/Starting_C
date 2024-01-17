@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int calc(){
+void calc(){
     int num1,num2;
     printf("Enter the number: \n");
     scanf("%d",&num1);
@@ -10,4 +10,5 @@ int calc(){
 
 int main(){
     calc();
+    return 0;
 }
