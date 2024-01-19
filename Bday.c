@@ -8,11 +8,10 @@ void Bday(char name[])
 int main()
 {
     while (1)
-    {
+    {   
         char name[] = "";
         printf("[+] Enter your name: ");
-        scanf("%s", name);
-        
+        scanf("%s", name);    
         Bday(name);
     }
 }
